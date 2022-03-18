@@ -23,7 +23,7 @@ This project uses Convolutional Neural Networks (CNNs) and transfer learning in 
 * dog_app.ipynb: Jupyter notebook containing the algorithm and process used to create it.
 * dog_app.html: A copy of dog_app.ipynb in html format.
 * Haarcascades folder: Xml file for use with the OpenCv face detector class.
-* Various images: Images in jpg and jpeg format used to test the algorithm's predictions.
+* Various images: Images in jpg format used to test the algorithm's predictions.
 
 
 ### Contents <a name="contents"></a>
