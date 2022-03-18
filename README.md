@@ -39,4 +39,7 @@ The project is organized along the following steps:
     Step 6: Test Your Algorithm
 
 ### Findings <a name="findings"></a>
-
+* The model achieved a test accuracy of 81.22%, which was above the 60% established accuracy threshold.
+* The model detected all the dog images correctly, although the breeds were incorrect. It also detected a dog for an image of a giraffe. One picture was correctly classified as neither dog nor human since it was a person wearing a helmet.
+* The predicted breeds for the dogs could be considered similar to a degree, but both dogs included were mixed breeds. Maybe further data and more training can account for breeds or probabilities of the top two or three predicted breeds.
+* The model could probably use more improvements with respect to noise, augmentation, and distance of the subject in the images.
